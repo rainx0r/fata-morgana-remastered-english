@@ -1,0 +1,151 @@
+ID,表示文字列,表示文字列
+7039104,ファタモルガーナの館,The House in Fata Morgana
+7016368,外伝 - A Requiem for Innocence,A Requiem for Innocence
+7013376,現代編 - Reincarnation,Reincarnation
+7014988,ショートストーリー,Short Stories
+7038208,記憶を辿る,Inspect Your Memories
+7030144,チャプターセレクト,Chapter Select
+7032224,コンフィグ,Config
+7037248,Extras,Extras
+7015328,合言葉,Back Door
+7037266,アートギャラリー,Art Gallery
+7030864,コンサートホール,Concert Hall
+7044032,舞台裏,Backstage
+7021824,終了,Quit
+7914914,Guide,Guide
+7924240,BGM　ボリューム,Music Volume
+7916804,ボイス　ボリューム,Voice Volume
+7913504,SE　ボリューム,Sound Effect Volume
+7919888,システム音　ボリューム,System Sound Volume
+7927308,BGMの自動調整,Lower Music Volume\nDuring Voice Playback
+7916938,文字表示速度,Text Display Rate
+3788710,ウィンドウ透明度,Text Box Opacity
+1988575,オート時の文字表示速度,Auto Mode Text Display Rate
+7914834,スキップモード,Skip
+836877,全文,All Text
+1082637,既読,Read Text
+1574217,選択肢でスキップ解除,Stop Skip at Choices
+7914496,オフ,No
+7925504,オン,Yes
+7927754,オートセーブ,Auto Save
+1734549,選択肢,At Choices
+235413,章,Every Chapter
+7927304,言語選択,Language Select
+554003,決定ボタン入れ替え,Button Layout
+373779,×決定　○キャンセル,X Accept[comma] O Cancel
+298003,○決定　×キャンセル,O Accept[comma] X Cancel
+7917568,振動,Vibration
+7916224,オン,Enabled
+7915632,オフ,Disabled
+2934210,初期化する,Restore Defaults
+1919170,全ての設定を初期状態に戻してよろしいですか？,Restore all settings to their default values?
+7919616,or,or
+1766757,カーソルを\n画面の右へ,or
+7927052,カーソルを\n画面の上へ,or
+7369280,決定・文字送り,
+7344448,キャンセル・メッセージウィンドウON/OFF,
+7352960,システムメニュー,
+7346704,バックログ,
+7363264,選択,
+2426024,コントロールメニュー,
+7363008,文字送り,
+7361280,スキップON/OFF,
+7353728,オートモードON/OFF,
+7369108,クイックセーブ,
+7369256,クイックロード,
+3465991,BGMのボリュームを調整します,Adjust the volume of the music.
+1728865,ボイスのボリュームを調整します,Adjust the volume of voices.
+7922050,SEのボリュームを調整します,Adjust the volume of sound effects.
+3465271,システム音のボリュームを調整します,Adjust the volume of system sounds.
+1663696,ボイス再生時にBGMを自動で調整します,Automatically lower the volume of the music while voices are playing.
+836473,特定のキャラクターボイスをミュートに出来ます,Selectively mute the voices of specific characters.
+1286509,テキストの表示速度を調整します / +で速く、-で遅く,Adjust the speed at which text is displayed.
+274758,テキストボックスの不透明度を調整します,Adjust the opacity of the text box.
+616646,オート時における文字送りの速度を調整します/＋で速く、-で遅く,Adjust the speed at which text is progressed in auto mode.
+303595,全てのテキストをスキップするか、既読のみにするか選べます,Set whether skip mode will skip all text or only previously read text.
+1691111,選択肢が表示された際にスキップを解除出来ます,Automatically exit skip mode upon encountering a choice.
+1827537,プレイ言語を選べます,Set the game’s display language.
+1936112,決定・キャンセルボタンの入れ替えをします,Swap the Accept and Cancel buttons.
+238273,オートセーブを行う位置を指定出来ます,Set when auto saves are created.
+7921792,コントローラーに対する振動のオン・オフを切り替えます,Toggle the use of controller vibration.
+8194440,スタート,Start
+1665759,エンディングリスト,Ending List
+690673,プロローグ,Prologue
+1256945,-？？？-,???
+8194122,タイトル画面に戻る,Return to Title
+6918395,A Requiem for Innocence,A Requiem for Innocence
+6919720,アセントデリ,Assento Dele
+6919748,ハピリーエヴァーアフター,Happily Ever ~After~
+4036248,Fragment,Fragment
+974488,-？？？-,???
+6918292,タイトル画面に戻る,Return to Title
+7186824,スタート,Start
+7186506,タイトル画面に戻る,Return to Title
+7349504,栞をはさむ,Save
+7391744,記憶を辿る,Load
+7379776,コンフィグ,Config
+7386144,バックログ,Backlog
+7280768,歌詞を表示,Lyrics
+1750857,ボイスコレクション,Voice Collection
+7344768,タイトル画面に戻る,Return to Title
+7378816,閉じる,Close
+299420,上書きしますか？,Overwrite the data?
+1401501,クイックセーブが完了しました,Quick Save Completed
+7366137,クイックロードしますか？,Load quick save data?
+1422847,データがありません,No quick save data was found.
+1140197,セーブデータの読み込みに失敗しました,Game save data file has been corrupted. Continue to clear file.
+1671859,セーブしています,Saving...
+831328,セーブに失敗しました\nストレージの空き容量が不足しています,Could not save. Please clear space on your disk drive.
+6570496,三つの問題をクリアすることで、すべてのストーリーが解除されます\n初めて本作をプレイする方は、最初からプレイすることをお勧めします\n進みますか？,By answering three questions[comma] you can unlock every story in the game.\nIf this is your first time playing[comma] we recommend following the game’s natural progression.\nProceed?
+6571296,おめでとうございます\nすべてのストーリーが解除されました,Congratulations!\nYou answered all three questions correctly.\nYou can now access every story in the game.
+6607360,残念ながら不正解でした\nタイトルに戻ります,Incorrect.\nReturning to the title screen.
+6638592,第一問\nミシェルがジゼルに渡した薔薇の色は何色？,Q1.\nWhat color rose did Michel give Giselle?
+6656896,赤,Red
+6659472,白,White
+6635520,第二問\n物見の塔へ行くには何本の鍵が必要？,Q2.\nHow many keys are necessary to enter the mansion’s observation tower?
+6657648,三本,Three
+6652032,四本,Four
+6636544,第三問\nどんな病をも治すと言われている妙薬の名は、何の血？,Q3.\nWhat is the name of the elixir said to be able to cure any disease?
+6657856,聖女,Saint’s Blood
+6656096,魔女,Witch’s Blood
+6836224,やがて死に至る毒,A Slow-Killing Poison
+6840320,欠陥同士,Defectives
+6844416,絵画のひとりごと,The Painting’s Ramblings
+6815744,あなたと私の故郷,The Revenants’ Dream
+6819840,I. Lost,I. Lost
+6823936,II. Pain　―ED4　躊躇、その後―,II. Pain
+6828032,Boy Meets Girl,Boy Meets Girl
+6864896,聖なる孤独に贈り物を,Silent Night[comma] Lonely Night
+6868992,コーヒーハウスのスカーレット,Scarlett in the Coffeehouse
+6985728,寄り添うための口実,A Ghost of an Excuse
+6981632,永遠のメイシェ,Eternal Meisje
+6993920,それは遠い日の、安らぎのフラグメント前編,A Slice of Sweet Serenity[comma] of Days Long Lost I
+6989824,それは遠い日の、安らぎのフラグメント後編,A Slice of Sweet Serenity[comma] of Days Long Lost II
+7002112,ローズ家のもう一人の住人,The Ghost of Rose Manor
+6998016,人魚のような彼女,The Not-So-Little Mermaid
+7010304,獣と女中、凪の一幕,The Maid and the Beast
+7006208,ワケありな女子会,Sisterhood of Secrets
+6952960,やさしさの一杯,A Cup of Kindness
+8246528,蜃気楼の囚人,Prisoner of Illusion
+8246784,君を迎えに,Coming for You
+8247040,ボンジュール・プーペ,Bonjour[comma] Poupée
+8245248,躊躇,A Moment of Hesitation
+8245504,それでも諦めないで,Never Let Go
+8245760,とこしえの闇,Darkness Everlasting
+8246016,別離,Farewell
+8248320,ファタモルガーナ,Fata Morgana
+6946812,セーブしています,Saving...
+6944634,進行状況をセーブしますか？,Save your progress?
+6943008,このスロットにはセーブ出来ません,Cannot save data to this slot.
+6943070,ロードしています,Loading...
+303423, ,Game save data entries on 
+306495,に記入されたセーブデータが破損しています\n破損データの削除と新しいページの作成を行います, have been corrupted. Press Confirm to erase the corrupt file and create a new page.
+305471,クイックセーブデータが破損しています\n破損データの削除と新しいページの作成を行います,All quick save data entries have been corrupted. Press Confirm to erase the corrupt file and create a new quick save page.
+308543,オートセーブデータが破損しています\n破損データの削除と新しいページの作成を行います,All auto save data entries have been corrupted. Press Confirm to erase the corrupt file and create a new auto save page.
+8069,新しいセーブデータが作成されました,New game save data page created.
+6735476,新しいセーブデータを作成中です,Creating new save game data...
+1468056,もう一度セーブデータの作成を試みますか？,Attempt to create save file again?
+6742984,システムセーブデータが破損しています\n破損データの削除と新しいページの作成を行います,System save data file has been corrupted. Press Confirm to erase the corrupt file and create a new one.
+7946880,はい,Yes
+7950080,いいえ,No
+7957992,確認,Confirm
