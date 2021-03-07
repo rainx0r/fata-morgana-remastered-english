@@ -1,5 +1,5 @@
 # fata-morgana-remastered-english
-English patch for The House in Fata Morgana Remastered. Based on the PS4 version of "The House in Fata Morgana Dreams of the Revenants Edition", re-enabling disabled english files that already exist in the game, as well a tiny bit of original work.
+English patch for The House in Fata Morgana Remastered. Based on the PS4 version of "The House in Fata Morgana Dreams of the Revenants Edition", re-enabling disabled english files that already exist in the game, as well a tiny bit of original work. This is still just merely an English patch for The House in Fata Morgana Remastered only with the help of assets from that PS4 game, it does not include requiem, reincarnation, or the short stories.
 
 Everything in the game including scripts, images and menus is translated based on the official translation of the game by MangaGamer. You can think of this patch as a port of that translation to the Remastered version if the game if you will.
 
