@@ -1,0 +1,9 @@
+{
+    "BundleName": "patch",
+    "Entries": [
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/patch/data/scenario/ks_en/omake.txt",
+            "BundlePath": "data/scenario/ks_en/omake"
+        }
+    ]
+}

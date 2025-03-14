@@ -11,6 +11,18 @@ The game can be obtained [here](https://www.animategames.jp/home/detail/30082), 
 
 The game should now be fully in English. You can change the language between Japanese and English in the Config from the main menu.
 
+## Build
+
+This is only if you're curious as to how you could build the patch yourself if you have the PS4 files.
+
+0. You'll need a dump of the PS4 version of "The House in Fata Morgana Dreams of the Revenants Edition". You'll also need to unpack it with a tool of your choice then unpack the `bgimage` AssetBundle. I used [AssetRipper](https://github.com/AssetRipper/AssetRipper). You can put all the PNGs in `Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage_en` or just the ones referenced in [bgimage.manifest](https://github.com/rainx0r/fata-morgana-remastered-english/blob/main/Fata%20Morgana%20Remastered%20English%20Patch/Assets/Editor/bgimage.manifest). You'll also need extract `MOV_intro.mp4` and `MOV_stafroll_main.mp4` into `build/FataMorgana_Data/StreamingAssets/movie_fullHD`.
+1. Grab Unity 2017.4.33f1
+2. Open `Fata Morgana Remastered English Patch` as a Unity project.
+3. Build the AssetBundles with `Project > Build AssetBundles`.
+4. The `build` directory should now have the full patch build!
+
+Code changes to `Assembly-CSharp.dll` were rather minimal and were done with [dnSpyEx](https://github.com/dnSpyEx/dnSpy).
+
 ## Credits
 
 - **Translation** (of a single image and 2 menu items...): @RainAnnen
@@ -19,4 +31,5 @@ The game should now be fully in English. You can change the language between Jap
 - **Special thanks**: @alyinghood, @MrComputerRevo
 
 ## Disclaimer
-I do not own any of the assets in the release archive outside of the ones that appear in this repository.
+
+I do not own any of the assets that appear anywhere.

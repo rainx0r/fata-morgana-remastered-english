@@ -28,6 +28,20 @@ public class EditorScripts
         }
     }
 
+    [Serializable]
+    public struct AssetBundleEntry
+    {
+        public string AssetsPath;
+        public string BundlePath;
+    }
+
+    [Serializable]
+    public class AssetBundleConfig
+    {
+        public string BundleName;
+        public AssetBundleEntry[] Entries;
+    }
+
     [MenuItem("Project/Merge Sprites into Assets")]
     static void MergeSprites()
     {
@@ -89,7 +103,7 @@ public class EditorScripts
     [MenuItem("Project/Build AssetBundles")]
     static void BuildAllAssetBundles()
     {
-        string assetBundleDirectory = "Assets/AssetBundles";
+        string assetBundleDirectory = "../build/FataMorgana_Data/StreamingAssets/AssetBundles/Windows64";
         if (!Directory.Exists(assetBundleDirectory))
         {
             Directory.CreateDirectory(assetBundleDirectory);
@@ -115,11 +129,6 @@ public class EditorScripts
                 bgimageAssetNames.Add(pngPath);
             }
         }
-        // for (int i = 0; i < bgimageAssetNames.Length; i++)
-        // {
-        //     Debug.Log("Asset name: " + bgimageAssetNames[i]);
-        //     Debug.Log("Addressable name: " + bgimageAddressableNames[i]);
-        // }
 
         var bgimage_en = new AssetBundleBuild {
             assetBundleName = "bgimage_en",
@@ -127,7 +136,23 @@ public class EditorScripts
             addressableNames = bgimageAddressableNames.ToArray()
         };
 
-        BuildPipeline.BuildAssetBundles(assetBundleDirectory, new[] { bgimage_en },
+        /* patch */
+        var PatchBundleConfig = JsonUtility.FromJson<AssetBundleConfig>(File.ReadAllText("Assets/Editor/patch.json"));
+        var patchAddressableNames = new List<string>();
+        var patchAssetNames = new List<string>();
+        foreach (var entry in PatchBundleConfig.Entries)
+        {
+            patchAssetNames.Add(entry.AssetsPath);
+            patchAddressableNames.Add(entry.BundlePath);
+        }
+        var patch = new AssetBundleBuild {
+            assetBundleName = PatchBundleConfig.BundleName,
+            assetNames = patchAssetNames.ToArray(),
+            addressableNames = patchAddressableNames.ToArray()
+        };
+
+
+        BuildPipeline.BuildAssetBundles(assetBundleDirectory, new[] { bgimage_en, patch },
                                         BuildAssetBundleOptions.ChunkBasedCompression, 
                                         BuildTarget.StandaloneWindows64);
     }
