@@ -2,10 +2,14 @@
 build/FataMorgana_Data/StreamingAssets/AssetBundles/Windows64
 
 # PNGs
-Fata Morgana Remastered English Patch/Assets/PNGs
 Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage_en/*.png
 Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage_en/*.asset
 Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage_en/*.meta
+Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/*.png
+Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/*.asset
+Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/*.meta
+
+*.mp4
 
 # Unity
 [Ll]ibrary/

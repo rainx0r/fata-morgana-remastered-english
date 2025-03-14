@@ -151,8 +151,23 @@ public class EditorScripts
             addressableNames = patchAddressableNames.ToArray()
         };
 
+        /* lyrics_en */
+        var LyricsEnBundleConfig = JsonUtility.FromJson<AssetBundleConfig>(File.ReadAllText("Assets/Editor/lyrics_en.json"));
+        var lyricsAddressableNames = new List<string>();
+        var lyricsAssetNames = new List<string>();
+        foreach (var entry in LyricsEnBundleConfig.Entries)
+        {
+            lyricsAssetNames.Add(entry.AssetsPath);
+            lyricsAddressableNames.Add(entry.BundlePath);
+        }
+        var lyrics_en = new AssetBundleBuild {
+            assetBundleName = LyricsEnBundleConfig.BundleName,
+            assetNames = lyricsAssetNames.ToArray(),
+            addressableNames = lyricsAddressableNames.ToArray()
+        };
 
-        BuildPipeline.BuildAssetBundles(assetBundleDirectory, new[] { bgimage_en, patch },
+
+        BuildPipeline.BuildAssetBundles(assetBundleDirectory, new[] { bgimage_en, lyrics_en, patch },
                                         BuildAssetBundleOptions.ChunkBasedCompression, 
                                         BuildTarget.StandaloneWindows64);
     }

@@ -1,0 +1,125 @@
+{
+    "BundleName": "lyrics_en",
+    "Entries": [
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_アセントデリ.png",
+            "BundlePath": "歌詞_アセントデリ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_エフェメラ.png",
+            "BundlePath": "歌詞_エフェメラ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_カリーナ.png",
+            "BundlePath": "歌詞_カリーナ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_クラック.png",
+            "BundlePath": "歌詞_クラック"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_サンクティス.png",
+            "BundlePath": "歌詞_サンクティス"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_シガレッタ.png",
+            "BundlePath": "歌詞_シガレッタ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_シシオ.png",
+            "BundlePath": "歌詞_シシオ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ジゼル.png",
+            "BundlePath": "歌詞_ジゼル"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_スワロウ.png",
+            "BundlePath": "歌詞_スワロウ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_セリエ.png",
+            "BundlePath": "歌詞_セリエ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_タランチュラ.png",
+            "BundlePath": "歌詞_タランチュラ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ダンシング.png",
+            "BundlePath": "歌詞_ダンシング"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_チェトニーナエ.png",
+            "BundlePath": "歌詞_チェトニーナエ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_デルフィナス.png",
+            "BundlePath": "歌詞_デルフィナス"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_トワイライト.png",
+            "BundlePath": "歌詞_トワイライト"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ネクト.png",
+            "BundlePath": "歌詞_ネクト"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ネーロ.png",
+            "BundlePath": "歌詞_ネーロ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_パッシング.png",
+            "BundlePath": "歌詞_パッシング"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ファタモルガーナ.png",
+            "BundlePath": "歌詞_ファタモルガーナ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ファブラ.png",
+            "BundlePath": "歌詞_ファブラ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_フェシャメ.png",
+            "BundlePath": "歌詞_フェシャメ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_プラナドール.png",
+            "BundlePath": "歌詞_プラナドール"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ヘエンカルナサオ.png",
+            "BundlePath": "歌詞_ヘエンカルナサオ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_マニータ.png",
+            "BundlePath": "歌詞_マニータ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ミシェル.png",
+            "BundlePath": "歌詞_ミシェル"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ミンキア.png",
+            "BundlePath": "歌詞_ミンキア"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ラビリンティア.png",
+            "BundlePath": "歌詞_ラビリンティア"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ラブユー.png",
+            "BundlePath": "歌詞_ラブユー"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_ルチオレ.png",
+            "BundlePath": "歌詞_ルチオレ"
+        },
+        {
+            "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/lyrics_en/en/歌詞_レクイエム.png",
+            "BundlePath": "歌詞_レクイエム"
+        }
+    ]
+}
