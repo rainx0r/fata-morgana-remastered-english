@@ -1,0 +1,45 @@
+# AssetBundle builds
+build/FataMorgana_Data/StreamingAssets/AssetBundles/Windows64
+
+# PNGs
+Fata Morgana Remastered English Patch/Assets/PNGs
+Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage/*.png
+Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage/*.asset
+Fata Morgana Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage/*.meta
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/*
+ExportedObj/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
